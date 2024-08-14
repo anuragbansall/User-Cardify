@@ -1,8 +1,41 @@
-# React + Vite
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
-Currently, two official plugins are available:
+<h3 align="center">User Cardify</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <p align="center">
+    An intuitive React.js and Tailwind CSS app for creating user profile cards. Users can input their name, email, description, and image URL, and watch their personalized card come to life on the page.
+    <br />
+    <br />
+    <br />
+    <a href="https://user-cardify.vercel.app/">View Demo</a>
+  </p>
+</div>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://user-cardify.vercel.app/)
+
+### Built With
+
+* React.js
+* Tailwind CSS
+
+
+<!-- CONTACT -->
+## Contact
+
+Gmail - devanuragbansal@gmail.com
+
+Project Link: [https://github.com/anuragbansall/User-Cardify](https://github.com/anuragbansall/User-Cardify)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/anuragbansall
+[product-screenshot]: ./public/product.png
